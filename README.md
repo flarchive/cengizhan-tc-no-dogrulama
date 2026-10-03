@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of cengizhan/tc-no-dogrulama.** Not for installation: use [Packagist](https://packagist.org/packages/cengizhan/tc-no-dogrulama) or the [upstream repository](https://github.com/Cengizhan00/TC-NO-Dogrulama).
 
-**0** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/cengizhan-tc-no-dogrulama/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^1.2.0`
+**2** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/cengizhan-tc-no-dogrulama/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2023-08-12 | `^1.2.0` | [Browse](https://github.com/flarchive/cengizhan-tc-no-dogrulama/tree/archive/v0.1.0) |
+| `0.1.1` | 2023-08-12 | `^1.2.0` | [Browse](https://github.com/flarchive/cengizhan-tc-no-dogrulama/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/cengizhan-tc-no-dogrulama.json](https://github.com/flarchive/archive-index/blob/main/packages/cengizhan-tc-no-dogrulama.json)
 
